@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://tramoni-vl.github.io/packages.sign/VialinkSign.Package_x64.appinstaller"
+	Version="1.30.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainPackage
+		Name="Vialink.Sign"
+		Version="1.30.0.0"
+		Publisher="CN=VIALINK S.A.S, O=VIALINK S.A.S, L=PARIS, C=FR"
+		Uri="https://tramoni-vl.github.io/packages.sign/VialinkSign.Package_1.30.0.0_x64_Test/VialinkSign.Package_1.30.0.0_x64.appx"
+		ProcessorArchitecture="x64" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
