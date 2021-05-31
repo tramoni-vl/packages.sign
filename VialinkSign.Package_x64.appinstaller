@@ -2,11 +2,11 @@
 <AppInstaller
 	Uri="https://tramoni-vl.github.io/packages.sign/VialinkSign.Package_x64.appinstaller"
 	Version="1.5.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
-	<MainBundle
+	<MainApp
 		Name="49306atecsolution.FilesUWP"
 		Version="1.5.0.0"
 		Publisher="CN=53EC4384-7F5B-4CF6-8C23-513FFE9D1AB7"
-		Uri="https://tramoni-vl.github.io/packages.sign/VialinkSign.Package_1.30.0.0_x64_Test/VialinkSign.Package_1.30.0.0_x64.appx" />
+		Uri="https://tramoni-vl.github.io/packages.sign/VialinkSign.Package_1.30.0.0_x64_Test/VialinkSign.Package_1.30.0.0_x64.msix" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
